@@ -1,2 +1,7 @@
 # godot-game
-# Potatoes are cool.
+
+This is a README
+
+## About
+
+Stuff
